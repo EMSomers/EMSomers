@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi Im Emma
+Im a beginner Web Developer currently working at an internship with Indigenous Friends Association. 
+Over the past 5 months I have built a strong foundation in HTML and CSS and currently learning JavaScript.
+
+I have always been artistically inclined and love that I can now make my designs a fully functioning website. 
+
+I am always looking for opportunities to grow and love to collaborate with others. 
+Feel free to reach me at  redwoodranchdesigns@gmail.com  if you have any questions!
+
+
+
 
 <!--
 **EMSomers/EMSomers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
