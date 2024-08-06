@@ -1,5 +1,5 @@
-## Hi Im Emma
-Im a beginner Web Developer currently working at an internship with Indigenous Friends Association. 
+## Hi I am Emma
+I am a beginner Web Developer currently working at an internship through Indigenous Friends Association. 
 Over the past 5 months I have built a strong foundation in HTML and CSS and currently learning JavaScript.
 
 I have always been artistically inclined and love that I can now make my designs a fully functioning website. 
